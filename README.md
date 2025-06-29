@@ -47,3 +47,7 @@ Olá! Sou o Pedro, um entusiasta de tecnologia de 19 anos, mergulhando no mundo 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PedroJUJU07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=PT-br" 
   />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroJUJU07&theme=tokyonight
+)](https://github.com/pedroJUJU07
+/github-readme-stats)
